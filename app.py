@@ -1,6 +1,4 @@
-#Name: Varun
 #Purpose: Guess the Price GUI
-#Date: May 17 2024
 
 import tkinter as tk
 from tkinter import PhotoImage, messagebox
